@@ -1,14 +1,12 @@
 # WebCRUD
 Este projeto é um CRUD de produtos implementado utilizando o padrão de arquitetura MVC (Model-View-Controller) e conectado a um banco de dados SQL Server.
 
-Funcionalidades
-Listagem de Produtos: Visualize todos os produtos cadastrados.
-
-Adição de Produto: Adicione novos produtos ao sistema.
-
-Edição de Produto: Atualize as informações de um produto existente.
-
-Exclusão de Produto: Remova produtos do sistema.
+Funcionalidades:
+<b>Listagem de Produtos: Visualize todos os produtos cadastrados </b>
+<b>Adição de Produto: Adicione novos produtos ao sistema. </b>
+<b>Adição de Produto: Adicione novos produtos ao sistema. 
+<b>Edição de Produto: Atualize as informações de um produto existente. </b>
+<b>Exclusão de Produto: Remova produtos do sistema. </b>
 
 <h1> Pré-requisitos </h1>
 Certifique-se de ter os seguintes itens instalados antes de executar o projeto:
