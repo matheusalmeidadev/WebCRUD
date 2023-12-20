@@ -11,7 +11,6 @@ Este projeto é um CRUD de produtos implementado utilizando o padrão de arquite
 Certifique-se de ter os seguintes itens instalados antes de executar o projeto:
 
 Visual Studio 2022 para executar o código.
-
 SQL Server Management Studio 19 (SSMS) para gerenciar o banco de dados.
 
 Microsoft.EntityFrameworkCore
@@ -19,15 +18,14 @@ Microsoft.EntityFrameworkCore.Sqlite
 Microsoft.EntityFrameworkCore.SqlServer
 Microsoft.EntityFrameworkCore.Tools
 
-Todos esses acima na versão 7.0.13
+Todos esses acima na versão <b> 7.0.13 </b>
 
 .NET SDK 7.0.403
-
 SQL Server 2022
 
 
-Configuração do Banco de Dados
-Comandos do Migration executados para criação do banco
+<h3> Configuração do Banco de Dados </h3>
+Comandos do Migration executados para criação do banco:
 
 Add-Migration Criacao-Inicial -Context Contexto
 Update-database -Context Contexto
@@ -37,7 +35,7 @@ Substitua SEUSERVIDOR pelo endereço do seu servidor SQL.
 
 
 
-Executando o Projeto
+<h3> Executando o Projeto </h3>
 Abra o projeto no Visual Studio.
 
 Certifique-se de que a configuração da conexão com o banco de dados está correta.
