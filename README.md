@@ -1,5 +1,5 @@
 # WebCRUD
-Este projeto é um CRUD de produtos implementado utilizando o padrão de arquitetura MVC (Model-View-Controller) e conectado a um banco de dados SQL Server.
+Este projeto é um CRUD de produtos implementado utilizando a estrutura ASP.NET Core com o padrão de arquitetura MVC (Model-View-Controller) e conectado a um banco de dados SQL Server.
 
 <h2>Funcionalidades: </h2>
 <b>Listagem de Produtos:</b> Visualize todos os produtos cadastrados  <br></br>
